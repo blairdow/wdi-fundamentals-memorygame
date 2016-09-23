@@ -10,7 +10,8 @@
 	border: black solid 1px;
 	background-color: rgb(255,255,100);
 	border-radius: 10px;
-    margin: 20px;
+    margin: 8%;
+    float: left;
 }
 body {
     font-family: Helvetica;
@@ -47,13 +48,7 @@ h3 {
     width: 960px;
     margin: 0 auto;
 }
-.row1 {
-    float: left;
-}
 
-.row2 {
-    float: left;
-}
 
 nav {
     width: 100%;
